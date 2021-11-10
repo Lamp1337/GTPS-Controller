@@ -16,7 +16,7 @@ Python
 
 ## Note
 > This code is for GTOS Source
-<br>>
+<br>
 you can recode/rename this source but dont forget to put credit :)
 
 ## Information
