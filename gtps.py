@@ -1,4 +1,4 @@
-# GTPS Controller by Lamp & Helped by numex
+# GTPS Controller by Lamp & Helped by numex, iFanpS
 import os, time, threading, json
 try:
     from discord.ext import commands
