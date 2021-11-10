@@ -17,7 +17,7 @@ Python
 ## Note
 ```bash
 This code is for GTOS Source
-You can rename/recode this source, but dont forget to put credit me (Lamp) and numex
+You can rename/recode this source, but dont forget to put credit me (Lamp), iFanpS and Numex
 ```
 
 ## Information
